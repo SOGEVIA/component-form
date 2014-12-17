@@ -1,6 +1,6 @@
 <?php
 
-namespace Iziscar\Component\Form;
+namespace Sogevia\Component\Form;
 
 use Symfony\Component\Form\Form;
 use Symfony\Component\HttpFoundation\Request;
