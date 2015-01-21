@@ -36,7 +36,7 @@ class ConfirmType extends AbstractType
      */
     public function getName()
     {
-        return 'iziscar_confirm_type';
+        return 'sogevia_confirm_type';
     }
 
 }
